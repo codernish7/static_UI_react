@@ -11,14 +11,14 @@ export default function HeroSection(){
                 <div className="shopping">
                     <p>Also available on</p>
                     <div className="brand-icons">
-                        <img src="/images/flipkart.png" alt="flipkart" />
-                        <img src="/images/amazon.png" alt="amazon" />
+                        <img src="./images/flipkart.png" alt="flipkart" />
+                        <img src="./images/amazon.png" alt="amazon" />
                     </div>
                 </div>   
                 
             </div>
             <div className="hero-image">
-                <img src="/images/nikeshoe.png" alt="joota" />
+                <img src="./images/nikeshoe.png" alt="joota" />
             </div>
         </main>
     )

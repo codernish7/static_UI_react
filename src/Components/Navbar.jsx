@@ -2,7 +2,7 @@ export default function Navbar(){
     return(
         <nav className="container">
             <div className="logo">
-                <img src="/images/nike.png" alt="amazon" />
+                <img src="./images/nike.png" alt="amazon" />
             </div>
             
                 <ul>
